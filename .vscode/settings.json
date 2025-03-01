@@ -2,6 +2,8 @@
     "files.associations": {
         "stdlib.h": "c",
         "day1_2": "cpp",
-        "day1_2.C": "cpp"
+        "day1_2.C": "cpp",
+        "stdio.h": "c",
+        "string.h": "c"
     }
 }
